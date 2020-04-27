@@ -30,9 +30,6 @@ Getting Started
   - Text recognition (Cloud)
   - Document text recognition (Cloud)
 
-Result
------------
-<img src="app/src/screen.png" height="534" width="300"/>
 
 Hosting a Custom Model
 -----------
